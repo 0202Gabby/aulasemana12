@@ -1,4 +1,4 @@
-x = input ("Cat1 or Cat2")
+x = input("Cat1 or Cat2")
 if x == "Cat1":
   print ("Gatinho1")
 elif x == "Cat2":
